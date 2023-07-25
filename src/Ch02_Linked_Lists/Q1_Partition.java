@@ -22,6 +22,7 @@ public class Q1_Partition {
     }
 
     public static void main(String[] args) {
+
         int length = 20;
         LinkedListNode[] nodes = new LinkedListNode[length];
         for (int i = 0; i < length; i++) {
